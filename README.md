@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zekkune
 - 👀 I’m interested in: Anime, NFL, Gaming, and of course coding.
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on Nothing as of right now.
 - 📫 How to reach me: email me @ Christian.Adams22405@gmail.com
 
